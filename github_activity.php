@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: github_activity
-Plugin URI: http://wordpress.org/#
+Plugin URI: http://wordpress.org/extend/plugins/github-activity/
 Description: list recent activity on your github account
 Author: Oliver C Dodd
 Version: 1.0.0
